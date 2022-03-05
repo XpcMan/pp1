@@ -30,7 +30,7 @@ app.get("/",(req,res)=>{
   res.end();
 });
 
-app.get("/extension-69A437",(req,res)=>{
+app.get("/extensionlaudachoos-steverobertson123451",(req,res)=>{
   var link;
   Popup.find().then(pop=>{
     var arr = pop[0].links;
